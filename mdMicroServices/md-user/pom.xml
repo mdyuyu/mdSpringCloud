@@ -5,11 +5,12 @@
     <parent>
         <artifactId>mdMicroServices</artifactId>
         <groupId>org.example</groupId>
-        <version>1.0-SNAPSHOT</version>
+        <version>${revision}</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>md-user</artifactId>
+    <version>${revision}</version>
     <packaging>pom</packaging>
 
     <name>md-user</name>

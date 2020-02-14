@@ -6,12 +6,12 @@
   <parent>
     <artifactId>md-user</artifactId>
     <groupId>org.example</groupId>
-    <version>1.0-SNAPSHOT</version>
+    <version>${revision}</version>
   </parent>
 
   <groupId>org.example</groupId>
   <artifactId>md-user-service</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>${revision}</version>
 
   <name>md-user-service</name>
   <!-- FIXME change it to the project's website -->
